@@ -29,7 +29,8 @@
 /* Sidebar Test */
 .Test {
   background-color: rgba(134, 134, 134, 0.281);
-  height: 100vh;
+  height: 95.2vh;
+  margin-top: 4.8vh;
   width: 1vw;
   position: absolute;
   white-space: wrap;
@@ -46,6 +47,8 @@
   width: 25vw;
 }
 .Test > h1 {
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.705);
+  color: white;
   position: relative;
   left: -182px;
   top: 20%;
