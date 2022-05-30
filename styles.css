@@ -62,8 +62,10 @@
   text-shadow: 2px 2px black;
   color: white;
   background-color: rgba(0, 0, 0, 0.11);
-  padding: 0;
+  padding-bottom: 0;
+  width: 100vw;
   margin: 0;
+  position: fixed;
 }
 
 .nav-bar ul {
@@ -73,6 +75,7 @@
   justify-content: center;
   flex-direction: row;
   font-size: 20px;
+  margin-bottom: 0;
 }
 
 .nav-bar ul li {
