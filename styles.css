@@ -108,6 +108,12 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+.uneeded-cool-thing {
+  display:flex;
+  position:absolute;
+  justify-content: right;
+  align-items: center;
+}
 /* Footer */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
 body {
