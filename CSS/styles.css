@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.high-div {
+  background-color: rgb(255, 220, 200);
+  width: 100vw;
+  height: 3rem;
+}
+
+.top {
+  align-items: center;
+  background-color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.486);
+  color: white;
+
+  z-index: 1;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../Images/thumb-1920-679478.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.name {
+  position: absolute;
+  top: 200px;
+  left: 60px;
+  color: white;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.616);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.i-am-swag {
+  background-color: black;
+  width: 100vw;
+  height: 5vw;
+}
