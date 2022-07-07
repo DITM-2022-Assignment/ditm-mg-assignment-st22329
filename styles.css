@@ -100,7 +100,7 @@
   padding: 0;
 }
 /* Entire Nav Bar */
-.free-nitro-no-scam {
+.tnav-bar {
   background-image: url(https://wallpaper.dog/large/912428.jpg);
   height: 100vh;
   width: 100vw;
@@ -108,7 +108,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-.uneeded-cool-thing {
+.question {
   display:flex;
   position:absolute;
   justify-content: right;
